@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/rickbassham/node-indi-client/compare/v1.0.4...v1.1.0) (2020-12-19)
+
+
+### Features
+
+* enable publishing to npm ([5ea8367](https://github.com/rickbassham/node-indi-client/commit/5ea836729ce162c1863fb601d1a55fafee7a104f))
+
 ## [1.0.4](https://github.com/rickbassham/node-indi-client/compare/v1.0.3...v1.0.4) (2020-12-19)
 
 
