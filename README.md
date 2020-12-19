@@ -7,6 +7,12 @@ This client will translate the XML INDI protocol into a more JS friendly JSON.
 Here's an example that will send all INDI protocol messages received to MQTT topics,
 and will subscribe to MQTT topics to send commands to INDI devices.
 
+## Installation
+
+```bash
+npm install indi-client
+```
+
 ## Example
 
 ```js
