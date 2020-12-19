@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/rickbassham/node-indi-client/compare/v1.0.3...v1.0.4) (2020-12-19)
+
+
+### Bug Fixes
+
+* **indi.js:** export the class mapping ([b4c1ed2](https://github.com/rickbassham/node-indi-client/commit/b4c1ed253e523fe8e2c242959d726687660acd71))
+
 ## [1.0.3](https://github.com/rickbassham/node-indi-client/compare/v1.0.2...v1.0.3) (2020-12-19)
 
 
