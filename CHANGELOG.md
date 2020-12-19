@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/rickbassham/node-indi-client/compare/v1.0.2...v1.0.3) (2020-12-19)
+
+
+### Bug Fixes
+
+* **package.json:** actually include all the files needed when packaging ([1c4d628](https://github.com/rickbassham/node-indi-client/commit/1c4d6287353aa48ffa97a9497d9f1f52336e4092))
+
 ## [1.0.2](https://github.com/rickbassham/node-indi-client/compare/v1.0.1...v1.0.2) (2020-12-19)
 
 
