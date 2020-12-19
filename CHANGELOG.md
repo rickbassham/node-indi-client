@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/rickbassham/node-indi-client/compare/v1.1.1...v1.1.2) (2020-12-19)
+
+
+### Bug Fixes
+
+* **client.js:** add close method to INDIClient ([dbb9995](https://github.com/rickbassham/node-indi-client/commit/dbb999554506980d125d2f9208b05eec0c27a13c))
+
 ## [1.1.1](https://github.com/rickbassham/node-indi-client/compare/v1.1.0...v1.1.1) (2020-12-19)
 
 
