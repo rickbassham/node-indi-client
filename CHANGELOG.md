@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/rickbassham/node-indi-client/compare/v1.1.0...v1.1.1) (2020-12-19)
+
+
+### Bug Fixes
+
+* publish to npm before committing changes ([0a8227a](https://github.com/rickbassham/node-indi-client/commit/0a8227adb51843d41c9d78228456bd86f7ee6c89))
+
 # [1.1.0](https://github.com/rickbassham/node-indi-client/compare/v1.0.4...v1.1.0) (2020-12-19)
 
 
