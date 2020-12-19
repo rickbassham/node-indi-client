@@ -5,6 +5,8 @@
   "main": "lib/indi.js",
   "files": [
     "lib/indi.js",
+    "lib/client.js",
+    "lib/models.js",
     "LICENSE",
     "README.md"
   ],
