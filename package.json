@@ -1,0 +1,36 @@
+{
+  "name": "indi-client",
+  "version": "0.0.1",
+  "description": "A node client to connect to indiserver and transform the XML payloads to JSON.",
+  "main": "lib/indi.js",
+  "files": [
+    "lib/indi.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickbassham/node-indi-client.git"
+  },
+  "keywords": [
+    "indi"
+  ],
+  "author": "Rick Bassham <brodrick.bassham@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickbassham/node-indi-client/issues"
+  },
+  "homepage": "https://github.com/rickbassham/node-indi-client#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.2"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "rwlock": "^5.0.0",
+    "sax": "^1.2.4",
+    "xmlbuilder2": "^2.4.0"
+  }
+}
