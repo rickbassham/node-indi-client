@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/rickbassham/node-indi-client/compare/v1.0.1...v1.0.2) (2020-12-19)
+
+
+### Bug Fixes
+
+* **indi.js:** don't export the same thing twice ([e13d269](https://github.com/rickbassham/node-indi-client/commit/e13d269495ae7a9c6de6c410f83abada43db4183))
+
 ## [1.0.1](https://github.com/rickbassham/node-indi-client/compare/v1.0.0...v1.0.1) (2020-12-19)
 
 
