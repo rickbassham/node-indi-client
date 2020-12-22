@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/rickbassham/node-indi-client/compare/v1.1.2...v1.1.3) (2020-12-22)
+
+
+### Bug Fixes
+
+* allow empty strings ([4277b66](https://github.com/rickbassham/node-indi-client/commit/4277b66c4152f18df5e62ed382e8bf03b8b4ea55))
+
 ## [1.1.2](https://github.com/rickbassham/node-indi-client/compare/v1.1.1...v1.1.2) (2020-12-19)
 
 
