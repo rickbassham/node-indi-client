@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/rickbassham/node-indi-client/compare/v1.1.3...v1.1.4) (2020-12-23)
+
+
+### Bug Fixes
+
+* **models:** add support for parsing sexagesimal numbers to oneNumber ([b3b7175](https://github.com/rickbassham/node-indi-client/commit/b3b717588bdc2eb167d326424d95de61443ca667))
+
 ## [1.1.3](https://github.com/rickbassham/node-indi-client/compare/v1.1.2...v1.1.3) (2020-12-22)
 
 
