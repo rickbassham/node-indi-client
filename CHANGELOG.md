@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/rickbassham/node-indi-client/compare/v1.1.4...v1.2.0) (2020-12-24)
+
+
+### Features
+
+* add automatic reconnecting to indi server ([11438b7](https://github.com/rickbassham/node-indi-client/commit/11438b7b3405ecb1df5dca9671fd789264d5473d))
+
 ## [1.1.4](https://github.com/rickbassham/node-indi-client/compare/v1.1.3...v1.1.4) (2020-12-23)
 
 

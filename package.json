@@ -1,6 +1,6 @@
 {
   "name": "indi-client",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "description": "A node client to connect to indiserver and transform the XML payloads to JSON.",
   "main": "lib/indi.js",
   "files": [
