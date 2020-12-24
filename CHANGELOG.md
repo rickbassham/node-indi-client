@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/rickbassham/node-indi-client/compare/v1.2.0...v1.3.0) (2020-12-24)
+
+
+### Features
+
+* add isConnected method to client ([6b8d7a6](https://github.com/rickbassham/node-indi-client/commit/6b8d7a6a8a02a86e3c0eadd668c07463f5e837c8))
+
 # [1.2.0](https://github.com/rickbassham/node-indi-client/compare/v1.1.4...v1.2.0) (2020-12-24)
 
 
