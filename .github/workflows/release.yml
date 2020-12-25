@@ -21,7 +21,7 @@ jobs:
             @semantic-release/release-notes-generator
       - name: test
         run: |
-          npm test
+          npm install-ci-test
       - name: release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
