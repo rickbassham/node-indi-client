@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: test
+        run: |
+          npm install-ci-test
       - name: npm install
         run: |
           npm install semantic-release \
