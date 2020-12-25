@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/rickbassham/node-indi-client/compare/v1.3.0...v1.4.0) (2020-12-25)
+
+
+### Features
+
+* run automated tests before doing a release ([61675cb](https://github.com/rickbassham/node-indi-client/commit/61675cb157fe9fc168838b65acb8c3d667556d36))
+
 # [1.3.0](https://github.com/rickbassham/node-indi-client/compare/v1.2.0...v1.3.0) (2020-12-24)
 
 
