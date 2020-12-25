@@ -19,6 +19,9 @@ jobs:
             @semantic-release/github \
             @semantic-release/npm \
             @semantic-release/release-notes-generator
+      - name: test
+        run: |
+          npm test
       - name: release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
