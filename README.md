@@ -38,7 +38,9 @@ indiClient.on("connect", () => {
   console.log("indi connection connected");
 
   indiClient.getProperties();
-  indiClient.enableBLOB(null, null, "Also"); // Get blobs as well as everything else.
+
+  // Don't get blobs, most MQTT clients can't handle messages of that size.
+  indiClient.enableBLOB(null, null, "Never");
 })
 
 indiClient.on("close", () => {
